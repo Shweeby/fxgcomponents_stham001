@@ -1,7 +1,7 @@
 
 # Description 
 
-Bibliothèque de 10 composantes React réutilisables :
+La bibliothèque contient 10 composants React réutilisables :
 
 - [Alert](#alert)
 - [Autocomplete](#autocomplete)
