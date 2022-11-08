@@ -108,7 +108,8 @@ dist
 storybook-static
 
 
-#Storybook stuff and lock files
+#Storybook stuff, lock files and Mac hidden files
 *.lock
 storybook-static
-.storybook
+#.storybook
+.DS_Store
