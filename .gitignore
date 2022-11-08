@@ -111,5 +111,5 @@ storybook-static
 #Storybook stuff, lock files and Mac hidden files
 *.lock
 storybook-static
-#.storybook
+package-lock.json
 .DS_Store
