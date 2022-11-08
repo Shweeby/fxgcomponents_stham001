@@ -15,7 +15,7 @@ Bibliothèque de 10 composantes React réutilisables :
 - [Switch](#switch)
 <br><br>
              
-Pour Démarrer la StoryBook
+Pour Démarrer le storybook
 ```
 npm run storybook
 ```
