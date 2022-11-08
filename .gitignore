@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Storybook stuff and lock files
+*.lock
+storybook-static
+
+
+#Storybook stuff and lock files
+*.lock
+storybook-static
+.storybook
