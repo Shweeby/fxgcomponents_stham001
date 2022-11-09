@@ -1,6 +1,6 @@
 {
   "name": "fxgcomponents_stham001",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "420-314-FX-A22 TP2 - Package NPM de composants React",
   "main": "./lib/index.js",
   "files": [
